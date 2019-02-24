@@ -1,6 +1,6 @@
 package com.joaodomingos.cursomc.Service;
 
-import com.joaodomingos.cursomc.Domain.Categoria.Categoria;
+import com.joaodomingos.cursomc.Domain.Categoria;
 import com.joaodomingos.cursomc.Repository.CategoriaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

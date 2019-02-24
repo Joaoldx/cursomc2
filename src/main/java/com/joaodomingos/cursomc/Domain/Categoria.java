@@ -1,4 +1,4 @@
-package com.joaodomingos.cursomc.Domain.Categoria;
+package com.joaodomingos.cursomc.Domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

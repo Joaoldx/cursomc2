@@ -1,6 +1,6 @@
 package com.joaodomingos.cursomc.Resources;
 
-import com.joaodomingos.cursomc.Domain.Categoria.Categoria;
+import com.joaodomingos.cursomc.Domain.Categoria;
 import com.joaodomingos.cursomc.Service.CategoriaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
